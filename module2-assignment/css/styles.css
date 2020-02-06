@@ -3,6 +3,6 @@
 }
 
 h1 {
-	align: center;
-	font-family: Lucida Console;
+	text-align: center;
+	font-family: "Lucida Console", Monaco, monospace
 }
