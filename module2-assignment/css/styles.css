@@ -37,6 +37,19 @@
 	font-weight: bold;
 }
 
+#Chicken {
+	background-color: pink;
+}
+
+#Beef {
+	background-color: red;
+	color: white;
+}
+
+#Sushi {
+	background-color: yellow;
+}
+
 .itemDescription {
 	clear: both;
 	padding: 10px;
